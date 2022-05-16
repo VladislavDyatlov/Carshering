@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/vladislavdyatlov/Carshering.git/static/css/main.5222ff0b.css",
-    "main.js": "/vladislavdyatlov/Carshering.git/static/js/main.b2b05819.js",
-    "static/js/787.28cb0dcd.chunk.js": "/vladislavdyatlov/Carshering.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/slider-4.jpg": "/vladislavdyatlov/Carshering.git/static/media/slider-4.e361a376a5a987833ae3.jpg",
-    "static/media/slider-1.jpg": "/vladislavdyatlov/Carshering.git/static/media/slider-1.d0d7174e7933259d64aa.jpg",
-    "static/media/slider-3.jpg": "/vladislavdyatlov/Carshering.git/static/media/slider-3.c1d21628ce1093b0f933.jpg",
-    "static/media/slider-2.jpg": "/vladislavdyatlov/Carshering.git/static/media/slider-2.475421343ce6b31e4dd5.jpg",
-    "static/media/creta.png": "/vladislavdyatlov/Carshering.git/static/media/creta.0deb3630e34fcf7468fc.png",
-    "static/media/sonata.png": "/vladislavdyatlov/Carshering.git/static/media/sonata.7af9dd2a12bcf44d5c05.png",
-    "static/media/i30n.png": "/vladislavdyatlov/Carshering.git/static/media/i30n.b97a009780046e166644.png",
-    "static/media/elantra.png": "/vladislavdyatlov/Carshering.git/static/media/elantra.9bd07a5a9e6c84f9aec0.png",
-    "index.html": "/vladislavdyatlov/Carshering.git/index.html",
-    "static/media/location.svg": "/vladislavdyatlov/Carshering.git/static/media/location.9d09636f7eb2935d74c761d4bad1a609.svg",
-    "static/media/left-arrow.svg": "/vladislavdyatlov/Carshering.git/static/media/left-arrow.dd0226d1ef40f8836d758d1d948bcb88.svg",
-    "static/media/right-arrow.svg": "/vladislavdyatlov/Carshering.git/static/media/right-arrow.9d87137d3cdc657274dc93047421f39a.svg",
-    "main.5222ff0b.css.map": "/vladislavdyatlov/Carshering.git/static/css/main.5222ff0b.css.map",
-    "main.b2b05819.js.map": "/vladislavdyatlov/Carshering.git/static/js/main.b2b05819.js.map",
-    "787.28cb0dcd.chunk.js.map": "/vladislavdyatlov/Carshering.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/vladislavdyatlov/carshering.git/static/css/main.5222ff0b.css",
+    "main.js": "/vladislavdyatlov/carshering.git/static/js/main.2b3bf1f0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/vladislavdyatlov/carshering.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/slider-4.jpg": "/vladislavdyatlov/carshering.git/static/media/slider-4.e361a376a5a987833ae3.jpg",
+    "static/media/slider-1.jpg": "/vladislavdyatlov/carshering.git/static/media/slider-1.d0d7174e7933259d64aa.jpg",
+    "static/media/slider-3.jpg": "/vladislavdyatlov/carshering.git/static/media/slider-3.c1d21628ce1093b0f933.jpg",
+    "static/media/slider-2.jpg": "/vladislavdyatlov/carshering.git/static/media/slider-2.475421343ce6b31e4dd5.jpg",
+    "static/media/creta.png": "/vladislavdyatlov/carshering.git/static/media/creta.0deb3630e34fcf7468fc.png",
+    "static/media/sonata.png": "/vladislavdyatlov/carshering.git/static/media/sonata.7af9dd2a12bcf44d5c05.png",
+    "static/media/i30n.png": "/vladislavdyatlov/carshering.git/static/media/i30n.b97a009780046e166644.png",
+    "static/media/elantra.png": "/vladislavdyatlov/carshering.git/static/media/elantra.9bd07a5a9e6c84f9aec0.png",
+    "index.html": "/vladislavdyatlov/carshering.git/index.html",
+    "static/media/location.svg": "/vladislavdyatlov/carshering.git/static/media/location.9d09636f7eb2935d74c761d4bad1a609.svg",
+    "static/media/left-arrow.svg": "/vladislavdyatlov/carshering.git/static/media/left-arrow.dd0226d1ef40f8836d758d1d948bcb88.svg",
+    "static/media/right-arrow.svg": "/vladislavdyatlov/carshering.git/static/media/right-arrow.9d87137d3cdc657274dc93047421f39a.svg",
+    "main.5222ff0b.css.map": "/vladislavdyatlov/carshering.git/static/css/main.5222ff0b.css.map",
+    "main.2b3bf1f0.js.map": "/vladislavdyatlov/carshering.git/static/js/main.2b3bf1f0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/vladislavdyatlov/carshering.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5222ff0b.css",
-    "static/js/main.b2b05819.js"
+    "static/js/main.2b3bf1f0.js"
   ]
 }
