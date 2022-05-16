@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VladislavDyatlov/Carshering.git/static/css/main.5222ff0b.css",
-    "main.js": "/VladislavDyatlov/Carshering.git/static/js/main.22ca617c.js",
+    "main.js": "/VladislavDyatlov/Carshering.git/static/js/main.119771bf.js",
     "static/js/787.28cb0dcd.chunk.js": "/VladislavDyatlov/Carshering.git/static/js/787.28cb0dcd.chunk.js",
     "static/media/slider-4.jpg": "/VladislavDyatlov/Carshering.git/static/media/slider-4.e361a376a5a987833ae3.jpg",
     "static/media/slider-1.jpg": "/VladislavDyatlov/Carshering.git/static/media/slider-1.d0d7174e7933259d64aa.jpg",
@@ -16,11 +16,11 @@
     "static/media/left-arrow.svg": "/VladislavDyatlov/Carshering.git/static/media/left-arrow.dd0226d1ef40f8836d758d1d948bcb88.svg",
     "static/media/right-arrow.svg": "/VladislavDyatlov/Carshering.git/static/media/right-arrow.9d87137d3cdc657274dc93047421f39a.svg",
     "main.5222ff0b.css.map": "/VladislavDyatlov/Carshering.git/static/css/main.5222ff0b.css.map",
-    "main.22ca617c.js.map": "/VladislavDyatlov/Carshering.git/static/js/main.22ca617c.js.map",
+    "main.119771bf.js.map": "/VladislavDyatlov/Carshering.git/static/js/main.119771bf.js.map",
     "787.28cb0dcd.chunk.js.map": "/VladislavDyatlov/Carshering.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5222ff0b.css",
-    "static/js/main.22ca617c.js"
+    "static/js/main.119771bf.js"
   ]
 }
